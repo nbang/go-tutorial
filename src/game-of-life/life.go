@@ -85,6 +85,7 @@ func (l *Life) String() string {
 		}
 		buf.WriteByte('\n')
 	}
+	buf.WriteByte('\n')
 
 	return buf.String()
 }
