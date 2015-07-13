@@ -1,3 +1,5 @@
+//conway game of life
+
 package main
 
 import (

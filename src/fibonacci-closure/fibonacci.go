@@ -1,3 +1,5 @@
+//calculate fibonacci sequence using closure function
+
 package main
 
 import "fmt"

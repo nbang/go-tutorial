@@ -1,3 +1,5 @@
+//using interface to implement factory pattern
+
 package main
 
 import "fmt"
